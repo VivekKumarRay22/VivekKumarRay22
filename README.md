@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Vivek Kumar Ray
 
-<!--
-**VivekKumarRay22/VivekKumarRay22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Graduate
 
-Here are some ideas to get you started:
+💻 Aspiring Full Stack Developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently Learning and Building Web Applications
+
+⚡ React.js • JavaScript • Node.js • Express.js
+
+📌 Open to Internships and Entry-Level Opportunities
+
+## 📫 Contact
+
+📧 vivekkumarray855@gmail.com
+
+⭐ Always Learning, Building and Improving.
