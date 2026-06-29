@@ -2,7 +2,7 @@
 
 🎓 BCA Graduate
 
-💻 Aspiring Full Stack Developer
+💻 Full Stack Developer
 
 🚀 Currently Learning and Building Web Applications
 
